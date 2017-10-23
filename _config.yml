@@ -4,7 +4,7 @@ permalink:           pretty
 # Setup
 title:               Life
 tagline:             'In Balance'
-description:         'Letters free from the bonds of work. Made by <a href="https://twitter.com/tugglery" target="_blank">@tugglery</a>.'
+description:         'Letters at leisure, thoughts not at work. Made by <a href="https://twitter.com/tugglery" target="_blank">@tugglery</a>.'
 url:                 http://rtuggle.github.io
 baseurl:             '/life_blog'
 paginate:            5
