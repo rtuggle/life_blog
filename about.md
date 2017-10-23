@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: life_blog\about
 ---
 
 <p class="message">
