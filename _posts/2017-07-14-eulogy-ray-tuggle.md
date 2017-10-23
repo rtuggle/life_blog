@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Eulogy - Ray Tuggle
+title: Ray Tuggle
 ---
 *Litesey Funeral Home, Cedartown, Georgia*
 

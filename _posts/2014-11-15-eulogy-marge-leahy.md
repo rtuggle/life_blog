@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Eulogy - Marge Leahy
+title: Marge Leahy
 ---
 *Cathedral Ave, Washington, District of Columbia*
 
