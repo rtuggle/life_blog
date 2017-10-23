@@ -54,10 +54,10 @@ Marge had impressive range as a performer. Her secret was her willingness to sta
 
 Suddenly and mysteriously she recites:
 
-Whan that Aprill, with his shoures soote
-	The droghte of March hath perced to the roote
-	And bathed every veyne in swich licour,
-	Of which vertu engendred is the flour.
+	Whan that Aprill, with his shoures soote
+The droghte of March hath perced to the roote
+And bathed every veyne in swich licour,
+Of which vertu engendred is the flour.
 	
 And then her eyes go a bit distant and just as suddenly, she sings:
 
