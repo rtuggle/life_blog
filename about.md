@@ -19,6 +19,6 @@ Most of these letters focus on life events:
 
 Common topics include weddings, funerals, opinions, and memories.
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://rtuggle.github.com/life_blog/issues/new) or [ask me on Twitter](https://twitter.com/tugglery).
+Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/rtuggle/life_blog/issues/new) or [ask me on Twitter](https://twitter.com/tugglery).
 
 Thanks for reading! 
