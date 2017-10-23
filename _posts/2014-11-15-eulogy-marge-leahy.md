@@ -54,15 +54,15 @@ Marge had impressive range as a performer. Her secret was her willingness to sta
 
 Suddenly and mysteriously she recites:
 
-	Whan that Aprill, with his shoures soote
-The droghte of March hath perced to the roote
-And bathed every veyne in swich licour,
-Of which vertu engendred is the flour.
+>Whan that Aprill, with his shoures soote
+>The droghte of March hath perced to the roote
+>And bathed every veyne in swich licour,
+>Of which vertu engendred is the flour.
 	
 And then her eyes go a bit distant and just as suddenly, she sings:
 
-	Let me entertain you and we’ll have a real good time, yes sir, 
-we’ll have a real good time
+>Let me entertain you and we’ll have a real good time, yes sir, 
+>we’ll have a real good time
 
 Marge’s special genius was that she recognized our place in a grand and ancient tradition. She assured us that we belonged among that great cast of flawed characters stretching from Gypsy Rose all the way back to the Canterbury Tales. 
 
