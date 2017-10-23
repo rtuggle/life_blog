@@ -3,8 +3,8 @@ layout: post
 title: Eulogy - Ray Tuggle
 ---
 *Litesey Funeral Home* 
-*Cedartown, Georgia*
 
+*Cedartown, Georgia*
 
 
 A few weeks ago Grandpa reminded me that static electricity discharges much more readily in the upper atmosphere than down here on the ground. This was why he often advised Air Force colonels and Deputy Assistant Directors for Intelligence to let the camera systems outgas for a few days before turning them on. It was one of the many ways he’d learned to preserve the intricate machines he sent into space.  
