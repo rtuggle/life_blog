@@ -4,27 +4,21 @@ title: About
 ---
 
 <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+  Dear reader. I hope these letters find you well...   
 </p>
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+I am often exposed to the idea that work and life are separated somehow and prone in separation to lose balance, fall over. 
+Here then is some evidence of life, set apart from work, as a counterweight of sorts. Maybe it is scaffolding balanced against 
+the weight of ambition, compensation. Maybe it is something more. 
 
-There are currently two themes built on Poole:
+Most of these letters focus on life events:
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+* Gatherings 
+* Happenings 
+* Travels 
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+Common topics include weddings, funerals, opinions, and memories.
 
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
+Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/life_blog/issues/new) or [ask me on Twitter](https://twitter.com/tugglery).
 
 Thanks for reading!
